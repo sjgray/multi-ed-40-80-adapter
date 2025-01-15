@@ -13,6 +13,7 @@ Use my PET/CBM EditROM Project to create custom Editor ROMs with various feature
 including software-switchable 40/80 column support via this board.
 
 More information and assembly instructions at:
-http://www.6502.org/users/sjgray/projects/multied4080/index.html
+http://www.cbmsteve.ca
+http://www.cbmsteve.ca/multied4080/index.html
 
 Steve
